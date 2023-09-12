@@ -1,18 +1,6 @@
-# LinuxHacker
+# Summary
 
-```
-Something I hope you know before go into the coding~
-First, please watch or star this repo, I'll be more happy if you follow me.
-Bug report, questions and discussion are welcome, you can post an issue or pull a request.
-```
-
-## 相关站点
-
-* <https://makelinux.github.io/kernel/map/>
-* <https://makelinux.github.io/kernel/diagram/>
-
-## 目录
-
+* [Introduction](README.md)
 * [networking](networking.md)
     * [select poll epoll](networking/select_poll_epoll.md)
 * [storage](storage.md)
@@ -32,21 +20,3 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [human interface](human_interface.md)
     * [security](human_interface/security.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
