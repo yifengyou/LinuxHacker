@@ -17,6 +17,11 @@
     * [scheduler](processing/scheduler.md)
 * [system](system.md)
     * [driver model](system/driver_model.md)
+    * [power management](system/power_management.md)
+        * [cpuidle](system/power_management/cpuidle.md)
 * [human interface](human_interface.md)
     * [security](human_interface/security.md)
+        * [control group](human_interface/security/control_group.md)
+            * [cgroup1](human_interface/security/control_group/cgroup1.md)
+            * [cgroup2](human_interface/security/control_group/cgroup2.md)
 
